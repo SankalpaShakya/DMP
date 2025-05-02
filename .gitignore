@@ -1,5 +1,12 @@
 # Prerequisites
 *.d
+*.mp4
+*.mxf
+*.png
+*.jpg
+*.mp3
+*.wav
+
 
 # Object files
 *.o
